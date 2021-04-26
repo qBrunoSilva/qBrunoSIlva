@@ -1,7 +1,7 @@
 # My Stats 
-![Bruno Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBrunoSilva&show_icons=true&theme=react)
+<!--![Bruno Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBrunoSilva&show_icons=true&theme=react)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBrunoSilva&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBrunoSilva&layout=compact&theme=react)]
 
 <!--
 **qBrunoSilva/qBrunoSIlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
