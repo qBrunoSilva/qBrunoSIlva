@@ -1,5 +1,5 @@
 # My Stats 
-![Bruno Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBrunoSilva&show_icons=true&theme=dark)
+![Bruno Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBrunoSilva&show_icons=true&theme=react)
 
 
 <!--
