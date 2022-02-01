@@ -1,7 +1,7 @@
 # ⚙️  GitHub Analytics
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qBrunoSilva&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qBrunoSilva&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=daa520&ring=daa520)](https://git.io/streak-stats)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBrunoSilva&langs_count=9&layout=compact&theme=react) -->
